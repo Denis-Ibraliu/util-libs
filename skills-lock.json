@@ -1,0 +1,35 @@
+{
+  "version": 1,
+  "skills": {
+    "architect": {
+      "source": "Denis-Ibraliu/commonkit-skills",
+      "sourceType": "github",
+      "skillPath": "skills/architect/SKILL.md",
+      "computedHash": "fdb5221b9b27a04ae16b2206eda2291fbac1c0d9c484d5f3d2b943e5a9b3b6b6"
+    },
+    "brainstorm": {
+      "source": "Denis-Ibraliu/commonkit-skills",
+      "sourceType": "github",
+      "skillPath": "skills/brainstorm/SKILL.md",
+      "computedHash": "3b0a8f574863ad78f391352f78e916b68809519f26bdfe7e8310542e36c5965e"
+    },
+    "implement": {
+      "source": "Denis-Ibraliu/commonkit-skills",
+      "sourceType": "github",
+      "skillPath": "skills/implement/SKILL.md",
+      "computedHash": "64ad3193ce4c93d81aebea9b29ba63824ad2a18dbddb2bdd1a2f47738303491e"
+    },
+    "review": {
+      "source": "Denis-Ibraliu/commonkit-skills",
+      "sourceType": "github",
+      "skillPath": "skills/review/SKILL.md",
+      "computedHash": "954531ee617c2eb85cd8520758363a072e4771b6d58aceb7a3929fb2876a2612"
+    },
+    "ship": {
+      "source": "Denis-Ibraliu/commonkit-skills",
+      "sourceType": "github",
+      "skillPath": "skills/ship/SKILL.md",
+      "computedHash": "ed59824882613009f00131121bac72244462ef443c1d2dce0a7debda2a89f5e9"
+    }
+  }
+}
